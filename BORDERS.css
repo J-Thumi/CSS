@@ -1,0 +1,6 @@
+.box{
+  width: 200px;
+  height:200px;
+  border:8px black dashed;/*can be dashed,solid,dotted,double,groove,ridge,inset,outset,none
+  */z
+}
